@@ -1,4 +1,7 @@
 This is a large test!
 
 Chester
+<<<<<<< HEAD
 AAA
+=======
+>>>>>>> 37d21aa431ab480983d06deb7761ffa1998ef0d4
